@@ -7,3 +7,7 @@ $ npm install --save @nestjs/swagger
 
 
 npm install --save @nestjs/typeorm typeorm sqlite3
+
+https://github.com/nestjsx/crud
+npm i @nestjsx/crud class-transformer class-validator
+npm i @nestjsx/crud-typeorm @nestjs/typeorm typeorm
