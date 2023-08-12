@@ -4,3 +4,6 @@ nest g service users
 
 https://docs.nestjs.com/openapi/introduction
 $ npm install --save @nestjs/swagger
+
+
+npm install --save @nestjs/typeorm typeorm sqlite3
