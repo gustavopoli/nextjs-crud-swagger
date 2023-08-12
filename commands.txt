@@ -1,0 +1,6 @@
+nest g module users
+nest g controller users
+nest g service users
+
+https://docs.nestjs.com/openapi/introduction
+$ npm install --save @nestjs/swagger
